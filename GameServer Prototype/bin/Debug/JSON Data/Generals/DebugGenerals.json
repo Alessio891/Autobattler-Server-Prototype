@@ -1,0 +1,12 @@
+﻿{
+	"id_generale":
+	{
+		"Name": "Debug General",
+		"Description": "General description",
+		"Sprite": "path/to/sprite/relative/to/resources",
+		"Attributes": [
+			"id_attributo_generale_1",
+			"id_attributo_generale_2"
+		]
+	}
+}

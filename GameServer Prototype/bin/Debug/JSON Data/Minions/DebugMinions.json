@@ -1,0 +1,82 @@
+﻿{
+	"footman" : {
+		"Name": "Footman",
+		"Description": "A simple footman",
+		"Attack": 1,
+		"MaxHP": 4,
+		"Tier": 1,
+		"Sprite": "Sprites/Debug/footman",
+		"Graphic": "Minions/Debug/Melee/Footman",
+		"Type": "Melee"
+	},
+	"rogue" : {
+		"Name": "Rogue",
+		"Description": "Has a 5% chance to evade attack",
+		"Attack": 2,
+		"MaxHP": 3,
+		"Tier": 1,
+		"Sprite": "Sprites/Debug/rogue",
+		"Graphic": "Minions/Debug/Melee/Rogue",
+		"Type": "Melee"
+	},
+	"exploder" : {
+		"Name": "Exploder",
+		"Description": "Explode with massive damage when it enters combat",
+		"Attack": 50,
+		"MaxHP": 1,
+		"Tier": 1,
+		"Sprite": "Sprites/Debug/exploder",
+		"Graphic": "Minions/Debug/Melee/Exploder",
+		"Type": "Melee"
+	},
+	"archer" : {
+		"Name": "Archer",
+		"Description": "Simple ranged unit",
+		"Attack": 1,
+		"MaxHP": 2,
+		"Tier": 1,
+		"Sprite": "Sprites/Debug/archer",
+		"Graphic": "Minions/Debug/Ranged/Archer",
+		"Type": "Ranged"
+	},
+	"medic" : {
+		"Name": "Medic",
+		"Description": "Healing ranged unit",
+		"Attack": 1,
+		"MaxHP": 2,
+		"Tier": 1,
+		"Sprite": "Sprites/Debug/medic",
+		"Graphic": "Minions/Debug/Ranged/Medic",
+		"Type": "Ranged"
+	},
+	"wizard" : {
+		"Name": "Wizard",
+		"Description": "Magic ranged unit",
+		"Attack": 1,
+		"MaxHP": 2,
+		"Tier": 1,
+		"Sprite": "Sprites/Debug/wizard",
+		"Graphic": "Minions/Debug/Ranged/Wizard",
+		"Type": "Ranged"
+	},
+	"airship" : {
+		"Name": "Airship",
+		"Description": "Randomly attack melee minion or heal friendly melee minions",
+		"Attack": 2,
+		"MaxHP": 10,
+		"Tier": 1,
+		"Sprite": "Sprites/Debug/airship",
+		"Graphic": "Minions/Debug/Flying/Airship",
+		"Type": "Flying"
+	},
+	"wyvern" : {
+		"Name": "Wyvern",
+		"Description": "Attacks the first two melees with fire",
+		"Attack": 1,
+		"MaxHP": 5,
+		"Tier": 1,
+		"Sprite": "Sprites/Debug/wyvern",
+		"Graphic": "Minions/Debug/Flying/Wyvern",
+		"Type": "Flying"
+	}
+}

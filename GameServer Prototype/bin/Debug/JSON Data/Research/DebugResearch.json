@@ -1,0 +1,12 @@
+﻿{
+	"id_research" :
+	{
+		"Name": "Debug Research",
+		"Tier": 1,
+		"Cost": {
+			"Gold": 10,
+			"Wood": 10,
+			"Stone": 10			
+		}
+	}
+}

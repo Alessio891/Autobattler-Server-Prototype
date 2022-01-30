@@ -1,0 +1,23 @@
+C:\Users\Alessio\source\repos\GameServer Prototype\GameServer Prototype\bin\Debug\GameServer Prototype.exe.config
+C:\Users\Alessio\source\repos\GameServer Prototype\GameServer Prototype\bin\Debug\GameServer Prototype.exe
+C:\Users\Alessio\source\repos\GameServer Prototype\GameServer Prototype\bin\Debug\GameServer Prototype.pdb
+C:\Users\Alessio\source\repos\GameServer Prototype\GameServer Prototype\bin\Debug\LiteNetLib.dll
+C:\Users\Alessio\source\repos\GameServer Prototype\GameServer Prototype\bin\Debug\LiteNetLib.pdb
+C:\Users\Alessio\source\repos\GameServer Prototype\GameServer Prototype\bin\Debug\LiteNetLib.xml
+C:\Users\Alessio\source\repos\GameServer Prototype\GameServer Prototype\obj\Debug\GameServer Prototype.csprojAssemblyReference.cache
+C:\Users\Alessio\source\repos\GameServer Prototype\GameServer Prototype\obj\Debug\GameServer Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Alessio\source\repos\GameServer Prototype\GameServer Prototype\obj\Debug\GameServer Prototype.csproj.CopyComplete
+C:\Users\Alessio\source\repos\GameServer Prototype\GameServer Prototype\obj\Debug\GameServer Prototype.exe
+C:\Users\Alessio\source\repos\GameServer Prototype\GameServer Prototype\obj\Debug\GameServer Prototype.pdb
+C:\Users\Alessio\source\repos\GameServer Prototype\GameServer Prototype\bin\Debug\DnsClient.dll
+C:\Users\Alessio\source\repos\GameServer Prototype\GameServer Prototype\bin\Debug\MongoDB.Bson.dll
+C:\Users\Alessio\source\repos\GameServer Prototype\GameServer Prototype\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Alessio\source\repos\GameServer Prototype\GameServer Prototype\bin\Debug\MongoDB.Driver.dll
+C:\Users\Alessio\source\repos\GameServer Prototype\GameServer Prototype\bin\Debug\System.Buffers.dll
+C:\Users\Alessio\source\repos\GameServer Prototype\GameServer Prototype\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Alessio\source\repos\GameServer Prototype\GameServer Prototype\bin\Debug\DnsClient.xml
+C:\Users\Alessio\source\repos\GameServer Prototype\GameServer Prototype\bin\Debug\MongoDB.Bson.xml
+C:\Users\Alessio\source\repos\GameServer Prototype\GameServer Prototype\bin\Debug\MongoDB.Driver.xml
+C:\Users\Alessio\source\repos\GameServer Prototype\GameServer Prototype\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Alessio\source\repos\GameServer Prototype\GameServer Prototype\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alessio\source\repos\GameServer Prototype\GameServer Prototype\bin\Debug\Newtonsoft.Json.xml
